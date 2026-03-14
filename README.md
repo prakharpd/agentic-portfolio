@@ -299,7 +299,7 @@ pip install -r requirements.txt
 MIT License
 
 ## 👤 Author
-
+Prakhar Dwivedi
 Created for portfolio demonstration
 
 ---
