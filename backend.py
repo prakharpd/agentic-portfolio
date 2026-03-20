@@ -63,7 +63,7 @@ os.environ["OPENAI_API_KEY"] = "sk-proj-ollama-local"  # Proper dummy key format
 
 notification_user_id = os.getenv("PUSHOVER_USER")
 notification_api_token = os.getenv("PUSHOVER_TOKEN")
-notification_api_url = "https://api.pushover.net/1/messages.json"
+notification_api_url = "Put your own PUSHOVER API URL"
 
 # Get the directory where this script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
