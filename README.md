@@ -9,7 +9,7 @@ An intelligent AI chatbot using **Agentic AI**, **RAG (Retrieval-Augmented Gener
 - **Agent Tools** - Contact saving & question tracking
 - **Terminal & GUI Modes** - Multiple interface options
 - **Local AI** - Runs offline using Ollama
-- **Complete Privacy** - No cloud APIs
+- **Complete Privacy** - No paid APIs
 - **Deploy Ready** - Can be hosted online with proper setup (coming soon)
 
 ---
