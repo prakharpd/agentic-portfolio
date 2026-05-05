@@ -33,7 +33,7 @@ An intelligent AI chatbot using **Agentic AI**, **RAG (Retrieval-Augmented Gener
 | RAG Relevance | ~85-90% | Based on resume section matching |
 | Tool Success Rate | 99%+ | Contact/question saving reliability |
 | System Uptime | 99%+ | No external API dependencies |
-| Memory Required | 6-8GB RAM | gpt-oss:120b-cloud model needs 4-6GB alone |
+| Memory Required | 6-8GB RAM + 3 GB VRAM | gpt-oss:120b-cloud model needs 4-6GB alone |
 | Concurrent Users | Unlimited | Local processing, no rate limits |
 
 ### How Metrics Were Measured
